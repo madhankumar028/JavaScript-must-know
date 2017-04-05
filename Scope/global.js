@@ -19,5 +19,4 @@
 	function showUser() {
 		return user['name']; // accessing the global variable
 	}
-
 }())

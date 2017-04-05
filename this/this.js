@@ -11,13 +11,11 @@ obj.setID = function(id) {
 	
 	console.log(this); // obj = {}
 	
-	function inner() {
-		console.log(this); // Window object
-	}
-	
-	console.log(this.name); // madhan
+	setTimeout(function() {
+		console.log(this); // window obj (setTimeout)
+	}, 5000);
 
-	inner();
+	console.log(this.name); // madhan
 }
 
 function strictMode() {
