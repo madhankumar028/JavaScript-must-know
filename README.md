@@ -1,4 +1,4 @@
-# JavaScript-must-know
+# js-must-know
 
 If you are a **Professional** *JavaScript* developer (or) want to become a **good** JavaScript developer. Cool You are at the right place.
 These are the concepts you must know.       
