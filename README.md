@@ -11,4 +11,4 @@ This repo will grow continually, keep your eyes on it to get familiar with all c
 
 # Contribution
 Contributions are welcome. Whenever you feel to improve the **existing code base** (or) introduce concepts which I have missed.
-Go ahead and give me a pull request. I am ready to accept.
+Give me a pull request. I am ready to accept.
