@@ -9,6 +9,8 @@ Please don't call yourself as **xxx-framework Developer** :no_entry_sign:. Do co
 
 This repo will grow continually, keep your eyes on it to get familiar with all core JavaScript concepts.
 
+I hope you will find this repo helpful, show your interest by clicking :start:.
+
 # Contribution
 Contributions are welcome. Whenever you feel to improve the **existing code base** (or) introduce concepts which I have missed.
 Give me a pull request. I am ready to accept.
